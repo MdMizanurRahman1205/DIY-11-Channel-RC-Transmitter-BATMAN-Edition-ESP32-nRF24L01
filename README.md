@@ -42,6 +42,11 @@ Charging module: https://amzn.to/4tPXI7P
 ## 🔌 Circuit Diagram
 ![Circuit Diagram)](Schematic.png)
 
+
+## 🎥 Project Tutorial (JUST CLICK)
+
+[![Watch the Video](https://img.youtube.com/vi/oKskIdD0tRI/maxresdefault.jpg)](https://youtu.be/oKskIdD0tRI)
+
 ---
 
 ## 🤝 Sponsorship
