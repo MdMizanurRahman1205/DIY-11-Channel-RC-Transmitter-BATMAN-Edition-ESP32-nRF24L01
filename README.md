@@ -40,7 +40,7 @@ Charging module: https://amzn.to/4tPXI7P
 ---
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram)](Schematic_RC_remote(BATMAN_Edition))
+![Circuit Diagram)](Schematic.png)
 
 ---
 
