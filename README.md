@@ -49,7 +49,7 @@ Charging module: https://amzn.to/4tPXI7P
 This project is proudly sponsored by  
 👉 [NextPCB](https://www.nextpcb.com/register?code=ElectroSurgeon)
 
-![NextPCB Logo](https://www.nextpcb.com/favicon.ico)
+![NextPCB Logo](https://www.nextpcb.com/uploads/images/202505/07/1746603675-2518-QAgOoc.png)
 
 This project uses a custom-designed PCB manufactured by NextPCB for high quality and reliability.
 
