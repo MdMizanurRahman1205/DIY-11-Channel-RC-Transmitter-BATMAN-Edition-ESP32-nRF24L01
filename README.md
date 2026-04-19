@@ -24,6 +24,7 @@ I used NextPCB for manufacturing my custom RC transmitter PCB, and the results w
 ---
 
 ## 🧰 Components Used
+![Component](Components.png)
 ESP32 Development Board: https://amzn.to/4tVb96r
 NRF24L01 Wireless Module: https://amzn.to/4845hQ8
 Dual Joystick Modules: https://amzn.to/41LxlEe
